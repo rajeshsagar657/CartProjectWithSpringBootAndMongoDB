@@ -1,0 +1,4 @@
+com/ultipro/main/serivice/SequenceGeneratorServiceTest.class
+com/ultipro/main/ApplicationStartTest.class
+com/ultipro/main/repository/ProductRepositoryTest.class
+com/ultipro/main/controllers/ProductControllerTest.class

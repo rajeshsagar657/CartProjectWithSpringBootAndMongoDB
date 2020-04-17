@@ -1,0 +1,9 @@
+/Users/nisum/work/react-spring-boot-with-mongodb/Ultipro/src/main/java/com/ultipro/main/controllers/ProductController.java
+/Users/nisum/work/react-spring-boot-with-mongodb/Ultipro/src/main/java/com/ultipro/main/repository/ProductRepository.java
+/Users/nisum/work/react-spring-boot-with-mongodb/Ultipro/src/main/java/com/ultipro/main/Beans/DatabaseSequence.java
+/Users/nisum/work/react-spring-boot-with-mongodb/Ultipro/src/main/java/com/ultipro/main/configuration/MongoConfiguration.java
+/Users/nisum/work/react-spring-boot-with-mongodb/Ultipro/src/main/java/com/ultipro/main/configuration/SwaggerConfigurationu.java
+/Users/nisum/work/react-spring-boot-with-mongodb/Ultipro/src/main/java/com/ultipro/main/Beans/Product.java
+/Users/nisum/work/react-spring-boot-with-mongodb/Ultipro/src/main/java/com/ultipro/main/configuration/WebSecurityConfig.java
+/Users/nisum/work/react-spring-boot-with-mongodb/Ultipro/src/main/java/com/ultipro/main/ApplicationStart.java
+/Users/nisum/work/react-spring-boot-with-mongodb/Ultipro/src/main/java/com/ultipro/main/serivice/SequenceGeneratorService.java

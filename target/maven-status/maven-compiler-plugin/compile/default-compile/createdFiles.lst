@@ -1,0 +1,9 @@
+com/ultipro/main/serivice/SequenceGeneratorService.class
+com/ultipro/main/repository/ProductRepository.class
+com/ultipro/main/configuration/SwaggerConfigurationu.class
+com/ultipro/main/Beans/DatabaseSequence.class
+com/ultipro/main/Beans/Product.class
+com/ultipro/main/configuration/WebSecurityConfig.class
+com/ultipro/main/ApplicationStart.class
+com/ultipro/main/configuration/MongoConfiguration.class
+com/ultipro/main/controllers/ProductController.class
